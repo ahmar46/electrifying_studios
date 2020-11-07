@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: monospace;
     margin: 0;
     background: #eee;
     height: auto;
@@ -10,7 +10,6 @@ body {
 h1 {
     font-weight: 400;
     font-size: 2.5rem;
-    text-transform: uppercase;
     margin: 0;
 }
 
@@ -67,6 +66,7 @@ main {
     border: 1px #ccc solid;
     display: inline-block;
     margin: 2rem 0 0;
+    font-size: 1.1rem;
     border-radius: 50px;
     text-decoration: none;
     color: #333;
