@@ -1,3 +1,3 @@
-### This Website is for fake  fully responsive on all Devices.
+### This Website is for fake photo fully responsive on all Devices.
 
 ###
