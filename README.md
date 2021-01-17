@@ -3,3 +3,5 @@
 ### Technologies Used: HTML, CSS, Javacript.
 
 ### Find me on InstaGram: @elelctrifying_codes.
+
+[instagram]
